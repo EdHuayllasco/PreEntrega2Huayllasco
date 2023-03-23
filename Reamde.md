@@ -1,3 +1,3 @@
 ## Despliegue del proyecto en: 
 
-[TiendaMuebles]()
+[TiendaMuebles](https://edhuayllasco.github.io/PreEntrega2Huayllasco/)
